@@ -2,8 +2,6 @@
 #include <stdbool.h>
 #include <limits.h>
 #include <stdio.h>
-// min cost flow с использованием дейкстры
-// code 33 - ошибка выделения памяти
 int num;
 struct graf
 {
